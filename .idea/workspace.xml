@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1670e72c-6e01-4069-8ec3-279af6d34055" name="Default Changelist" comment="java leaning progress">
-      <change afterPath="$PROJECT_DIR$/src/main/java/flatmapdemos/Demo2.java" afterDir="false" />
+    <list default="true" id="1670e72c-6e01-4069-8ec3-279af6d34055" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/flatmapdemos/Demo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Demo2">
+  <component name="RunManager" selected="Application.Demo3">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="flatmapdemos.Demo1" />
       <module name="untitled.main" />
@@ -81,6 +81,19 @@
     </configuration>
     <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="flatmapdemos.Demo2" />
+      <module name="untitled.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flatmapdemos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flatmapdemos.Demo3" />
       <module name="untitled.main" />
       <extension name="coverage">
         <pattern>
@@ -118,26 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="filterDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStreamExamples.filterDemo1" />
-      <module name="untitled.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStreamExamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo3" />
         <item itemvalue="Application.Demo2" />
         <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.Sortedstream" />
         <item itemvalue="Application.Distinctstream" />
-        <item itemvalue="Application.filterDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701106397697</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="java leaning progress">
+      <created>1701107425859</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701107425859</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,30 +200,30 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="495" y="77" key="#filterDemo1/0.0.1536.816@0.0.1536.816" timestamp="1698942893930" />
-    <state x="390" y="7" key="CommitChangelistDialog2" timestamp="1701106397122">
+    <state x="390" y="7" key="CommitChangelistDialog2" timestamp="1701107425288">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="390" y="7" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1701106397122" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1701107405428">
+    <state x="390" y="7" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1701107425288" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1701107716460">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1701107405428" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1701107405428">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1701107716460" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1701107716460">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1701107405428" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1701107405428">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1701107716460" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1701107716460">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1701107405428" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1701107405428">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1701107716460" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1701107716460">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1701107405428" />
-    <state x="361" y="144" key="Vcs.Push.Dialog.v2" timestamp="1701106402216">
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1701107716460" />
+    <state x="361" y="144" key="Vcs.Push.Dialog.v2" timestamp="1701107431705">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1701106402216" />
+    <state x="361" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1701107431705" />
     <state x="477" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1701104810001">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
